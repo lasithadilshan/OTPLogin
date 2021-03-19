@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293059393595",
+    "firebase_url": "https://vivaposter-9775b-default-rtdb.firebaseio.com",
+    "project_id": "vivaposter-9775b",
+    "storage_bucket": "vivaposter-9775b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293059393595:android:09d6840cf80864d0b3841e",
+        "android_client_info": {
+          "package_name": "com.dilshan.otplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293059393595-o8fmrgll08jg847onu1vm6rqgmb8fdb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dilshan.otplogin",
+            "certificate_hash": "1161d5b8c5f0ab36675eb9fe7eb104379613a048"
+          }
+        },
+        {
+          "client_id": "293059393595-chrbf821ljnfaf9sl118ce73ggdjku0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl8Z0SFtLDKreVcbVO2-WEn0EuY_F5klk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293059393595-chrbf821ljnfaf9sl118ce73ggdjku0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
